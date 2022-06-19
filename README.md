@@ -2,8 +2,7 @@
 
 faster address generator.
 
-<img width="912" alt="image" src="https://user-images.githubusercontent.com/10571219/174461931-96f9566b-dc53-4df7-b1a8-63236fda7d31.png">
-
+[![Image from Gyazo](https://i.gyazo.com/c6151058daddb55f23306a76ea5d57f5.gif)](https://gyazo.com/c6151058daddb55f23306a76ea5d57f5)
 
 ## Installation
 
